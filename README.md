@@ -39,7 +39,7 @@ also studying in university and doing personal projects on the side to learn and
 
 ## 😉 More about me
 
-I used to be (and still partially am) a big video game enthusiast spending hours of my day playing games, but as I grew older I started to lose interest and wanted to spend my time on something that really matters, something that makes an impact, something that's here to stay. <br/>
+I used to be (and still partially am) a big video game enthusiast spending hours of my day playing games, but as I grew older I started to lose interest and wanted to spend my time on something that really matters, something that makes an impact, something that's here to stay.
 These thoughts began my journey on personal passion projects. <br/>
 
 I also spend time trading **Cryptocurrency** and improving my chart analysis skills to make some side income. <br/>
