@@ -1,16 +1,22 @@
 # 💼 Welcome to my personal project portfolio
 
 I'm a **Junior to Mid-Level** software engineer who's passionate about Web and Software development. <br/>
-Currently I'm working full time as a **Full Stack C# .NET Developer** for **Sapiens Insurance Software Solutions** while <br/>
-also studying in university and doing personal projects on the side to learn and grow my skills.
+Studying in university and doing personal projects on the side to learn and grow my skills.
 
 ---
 
-## ⚔ Experience & Education
+## 🎓 Education roadmap
 
-**Education:** University of Latvia <br/>
-**Degree:** College (2020-2023) & Bachelors (2023-2024) <br/>
-**Hands-on experience:** 0.7 Years <br/>
+**Education:** Computer science - Software engineering - University of Latvia <br/>
+**Degree:** College (2020-2023) & Bachelor's (2023-2024) & Master's (2024-2026)<br/>
+
+---
+
+## ⚔ Work experience
+
+**Company:** Sapiens Insurance Software Solutions <br/>
+**Role:** Full Stack C# .NET Developer <br/>
+**Time:** 1 year <br/>
 
 ---
 
