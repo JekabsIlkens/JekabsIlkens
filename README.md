@@ -1,20 +1,19 @@
 # 💼 Welcome to my personal project portfolio
 
-I'm a **Junior to Mid-Level** software engineer who's passionate about Web and Software development. <br/>
-Studying in university and doing personal projects on the side to learn and grow my skills.
+I'm a **Software Engineer & Developer** who's passionate about building new things and solving complex problems. <br/>
 
 ---
 
 ## 🎓 Education roadmap
 
-**Education:** Computer science - Software engineering - University of Latvia <br/>
-**Degree:** College (2020-2023) & Bachelor's (2023-2024) & Master's (2024-2026)<br/>
+**Education:** University of Latvia - Computer science - Software engineering <br/>
+**Degree:** College (2020-2023) & Bachelor's (2023-2024) <br/>
 
 ---
 
 ## ⚔ Work experience
 
-**Company:** Sapiens Insurance Software Solutions <br/>
+**Company:** Sapiens Software Solutions (Latvia) <br/>
 **Role:** Full Stack C# .NET Developer <br/>
 **Time:** 1 year <br/>
 
@@ -22,7 +21,7 @@ Studying in university and doing personal projects on the side to learn and grow
 
 ## 🧮 Specialized skills
 
-+ **API (Application Programming Interface) Development**
++ ** Application Programming Interface (API) Development**
 
 ---
 
@@ -32,21 +31,15 @@ Studying in university and doing personal projects on the side to learn and grow
 <img align="left" alt="Cpp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="BSTRAP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="JS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+<img align="left" alt="NetCore" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <br/>
 <br/>
 <br/>
 
 ---
-
-## 😉 More about me
-
-I used to be a big video game enthusiast spending hours of my day playing games, but as I grew older I started to lose interest and wanted to spend my time on something that matters - developing skills and growing as a person to pursue a career that I love.
-These thoughts began my journey on personal passion projects. <br/>
-
-I also spend time trading **Cryptocurrency** and improving my chart analysis skills to make some side income. <br/>
-Specifically - **Swing trading and investing long-term** in projects I believe in. <br/>
-In the near future I plan to get my feet wet in the **Stock Market** as well. <br/>
