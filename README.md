@@ -1,6 +1,6 @@
 # 💻 Welcome to my personal project portfolio
 
-**Ambitious Full-Stack Developer | Computer Science Graduate | .NET Enthusiast** <br/>
+**Ambitious Full-Stack Developer | Computer Science Graduate | .NET & PHP Enthusiast** <br/>
 
 **LinkedIn:** https://www.linkedin.com/in/jekabsilkens <br/>
 
@@ -55,7 +55,7 @@ I’m excited to join a team that values continuous improvement, teamwork and in
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230769AD?style=for-the-badge&logo=postgresql&logoColor=white) <br/>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
