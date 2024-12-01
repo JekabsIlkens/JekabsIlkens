@@ -1,5 +1,3 @@
-# 💻 Welcome to my personal project portfolio
-
 ## • Full-Stack Developer | Computer Science Graduate | Backend-Focused
  
 I am eager to apply my knowledge and skills to real-world challenges in tech. I’ve had the opportunity to build 
