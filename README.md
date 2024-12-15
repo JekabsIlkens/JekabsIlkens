@@ -24,16 +24,16 @@ understanding of delivering value to my team and the end-user through effective,
 ## **Projects**
 
 **[Tone Forge Guitars](https://github.com/JekabsIlkens/tone-forge-guitars)**
-| Ecommerce website for guitar enthusiasts, built with **Laravel**, **Inertia.js**, **React**, and **Stripe API**. 
+| Ecommerce website for guitar enthusiasts, built with **Laravel**, **Inertia.js**, **React**, **Stripe API**. 
 
 **[Blog System Concept](https://github.com/JekabsIlkens/blog-system-concept)**
-| Feature-rich blogging platform that's easy to use, built with **Laravel**, **PostgreSQL** and **Tailwind**.
+| Feature-rich blogging platform that's easy to use, built with **Laravel**, **PostgreSQL**, **Tailwind**.
 
 **[WebSocket Notifications](https://github.com/JekabsIlkens/websocket-notifs)**
-| Proof of concept, implementing real-time notification delivery, using **Laravel**, **Reverb** and **Redis**.
+| Proof of concept, implementing real-time notification delivery, using **Laravel**, **Reverb**, **Redis**.
 
 **[Investment Simulation System](https://github.com/JekabsIlkens/crypto-investment-simulator)**
-| Real-time investment simulation system, built with **ASP.NET Core 6**, **MySQL**, **Auth0**, **CMC API** and **Chart.js**.
+| Investment simulation with real market data, built with **ASP.NET**, **MySQL**, **Auth0**, **CMC API**, **Chart.js**.
 
 ## **Languages & Tools**
 
