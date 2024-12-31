@@ -1,10 +1,7 @@
-## **Full-Stack Developer | Computer Science Graduate | Backend-Focused**
+## **Full-Stack Developer | Computer Science Graduate | Back-End-Focused**
 
-I am eager to apply my knowledge and skills to real-world challenges in tech.
-I have a strong problem-solving desire and genuine enthusiasm for learning and tackling new challenges. 
-For me, criticism isn’t daunting - it’s an opportunity to learn, adapt, and become a stronger developer. 
-My previous development experience has not only strengthened my technical skills but also deepened my 
-understanding of delivering value to my team and the end-user through effective, scalable code.
+I have a strong problem-solving desire and genuine enthusiasm for learning and tackling new challenges. <br/>
+For me, criticism isn’t daunting - it’s an opportunity to learn, adapt, and become a stronger developer.
 
 ## **Education**
 
@@ -14,47 +11,38 @@ understanding of delivering value to my team and the end-user through effective,
 
 ## **Work Experience**
 
-**Full-Stack .NET Developer | [Sapiens Software Solutions](https://sapiens.com/) |** *(04/2022 - 04/2023)*
-- Enhanced **insurance systems** for [Aviva](https://www.aviva.co.uk/) and [Quotemehappy](https://www.quotemehappy.com/) using **.NET**, and **Microsoft SQL Server**.
-- Built and optimized **RESTful APIs** with **Swagger** for testing and **Postman** for debugging.
-- Implemented **unit tests** and **functional tests** using **xUnit** and **Selenium WebDriver**.
-- Collaborated across international teams, delivering clear documentation and improved processes.
-- Gained valuable experience in the **FinTech industry** and deepened my backend expertise.
+**.NET Developer | [Sapiens Software Solutions](https://sapiens.com/) |** *(04/2022 - 04/2023)*
+- Enhanced [Aviva](https://www.aviva.co.uk/) **motor insurance systems** using **.NET**, and **Microsoft SQL Server**.
+- Built, optimized and tested **RESTful APIs** using **Swagger** and **Postman**.
+- Performed **unit testing** and **functional testing** using **xUnit** and **Selenium WebDriver**.
+- Collaborated across international teams and gained valuable experience in the **FinTech industry**.
 
-## **Projects**
-
-**[Tone Forge Guitars](https://github.com/JekabsIlkens/tone-forge-guitars)**
-| Ecommerce website for guitar enthusiasts, built with **Laravel**, **Inertia.js**, **React**, **Stripe API**. 
-
-**[Blog System Concept](https://github.com/JekabsIlkens/blog-system-concept)**
-| Feature-rich blogging platform that's easy to use, built with **Laravel**, **PostgreSQL**, **Tailwind**.
-
-**[WebSocket Notifications](https://github.com/JekabsIlkens/websocket-notifs)**
-| Proof of concept, implementing real-time notification delivery, using **Laravel**, **Reverb**, **Redis**.
-
-**[Investment Simulation System](https://github.com/JekabsIlkens/crypto-investment-simulator)**
-| Investment simulation with real market data, built with **ASP.NET**, **MySQL**, **Auth0**, **CMC API**, **Chart.js**.
+**Laravel Developer | [iConcept](https://iconcept.lv/) |** *(12/2024 - present)*
+- System **backend development**, **optimization**, and **debugging** for a diverse range of products.
 
 ## **Languages & Tools**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Symfony](https://img.shields.io/badge/symfony-%23181717.svg?style=for-the-badge&logo=symfony&logoColor=white) 
-![Composer](https://img.shields.io/badge/composer-%23F05033.svg?style=for-the-badge&logo=composer&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230769AD?style=for-the-badge&logo=postgresql&logoColor=white) <br/>
-
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Inertia](https://img.shields.io/badge/inertia-%23FFFFFF?style=for-the-badge&logo=inertia&logoColor=black) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
+![Composer](https://img.shields.io/badge/composer-%23F05033.svg?style=for-the-badge&logo=composer&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
