@@ -1,26 +1,19 @@
-## **Full-Stack Developer | Computer Science Graduate | Back-End-Focused**
+## 🚀 **My Journey as a Developer**
 
-I have a strong problem-solving desire and genuine enthusiasm for learning and tackling new challenges. <br/>
-For me, criticism isn’t daunting - it’s an opportunity to learn, adapt, and become a stronger developer.
+**Computer Science | [University of Latvia](https://eztf.lu.lv/) | (09/2020 - 07/2024)**
+- College Degree in Software Engineering - (completed)
+- Bachelor's Degree in Software Engineering - (2/3 semesters)
 
-## **Education**
-
-**Computer Science | [University of Latvia](https://eztf.lu.lv/) |** *(09/2020 - 07/2024)*
-- College Degree in Software Engineering - *(completed)*  
-- Bachelor's Degree in Software Engineering - *(2/3 semesters)*
-
-## **Work Experience**
-
-**.NET Developer | [Sapiens Software Solutions](https://sapiens.com/) |** *(04/2022 - 04/2023)*
+**.NET Developer | [Sapiens Software Solutions](https://sapiens.com/) | (04/2022 - 04/2023)**
 - Enhanced [Aviva](https://www.aviva.co.uk/) **motor insurance systems** using **.NET**, and **Microsoft SQL Server**.
 - Built, optimized and tested **RESTful APIs** using **Swagger** and **Postman**.
 - Performed **unit testing** and **functional testing** using **xUnit** and **Selenium WebDriver**.
 - Collaborated across international teams and gained valuable experience in the **FinTech industry**.
 
-**Laravel Developer | [iConcept](https://iconcept.lv/) |** *(12/2024 - present)*
+**Laravel Developer | [iConcept](https://iconcept.lv/) | (12/2024 - present)**
 - System **backend development**, **optimization**, and **debugging** for a diverse range of products.
 
-## **Languages & Tools**
+## 🛠 **Languages & Tools**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
