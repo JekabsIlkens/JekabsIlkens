@@ -1,8 +1,8 @@
 ## 🚀 **My Journey as a Developer**
 
 **Computer Science | [University of Latvia](https://eztf.lu.lv/) | (09/2020 - 07/2024)**
-- College Degree in Software Engineering - (completed)
-- Bachelor's Degree in Software Engineering - (2/3 semesters)
+- College Degree in Software Engineering
+- Bachelor's Degree in Software Engineering
 
 **.NET Developer | [Sapiens Software Solutions](https://sapiens.com/) | (04/2022 - 04/2023)**
 - Enhanced [Aviva](https://www.aviva.co.uk/) **motor insurance systems** using **.NET**, and **Microsoft SQL Server**.
@@ -11,7 +11,7 @@
 - Collaborated across international teams and gained valuable experience in the **FinTech industry**.
 
 **Laravel Developer | [iConcept](https://iconcept.lv/) | (12/2024 - present)**
-- System **backend development**, **optimization**, and **debugging** for a diverse range of products.
+- **PHP backend development** for a diverse range of systems, mobile apps and websites.
 
 ## 🛠 **Languages & Tools**
 
