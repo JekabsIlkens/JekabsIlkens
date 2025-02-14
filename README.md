@@ -1,8 +1,8 @@
 ## 🚀 **My Journey as a Developer**
 
 **Computer Science | [University of Latvia](https://eztf.lu.lv/) | (09/2020 - 07/2024)**
-- College Degree in Software Engineering
-- Bachelor's Degree in Software Engineering
+- College Degree in Software Engineering - (completed)
+- Bachelor's Degree in Software Engineering - (2 out of 3 semesters)
 
 **.NET Developer | [Sapiens Software Solutions](https://sapiens.com/) | (04/2022 - 04/2023)**
 - Enhanced [Aviva](https://www.aviva.co.uk/) **motor insurance systems** using **.NET**, and **Microsoft SQL Server**.
