@@ -1,4 +1,4 @@
-## 🚀 **My Journey as a Developer**
+## **My journey as a developer**
 
 **Computer Science | [University of Latvia](https://eztf.lu.lv/) | (09/2020 - 07/2024)**
 - College Degree in Software Engineering - (completed)
@@ -11,7 +11,9 @@
 - Collaborated across international teams and gained valuable experience in the **FinTech industry**.
 
 **Laravel Developer | [iConcept](https://iconcept.lv/) | (12/2024 - present)**
-- **PHP backend development** for a diverse range of systems, mobile apps and websites.
+- **Full-stack development** for a diverse range of systems, mobile apps and websites.
+- **RESTful API development** using **Laravel**, **Spatie**, **Sanctum** and **MySQL**.
+- **System management panel development** using **Laravel**, **Breeze**, **Livewire** and **Flux**.
 
 ## 🛠 **Languages & Tools**
 
