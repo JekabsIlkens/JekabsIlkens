@@ -5,15 +5,15 @@
 - Bachelor's Degree in Software Engineering - (2 out of 3 semesters)
 
 **.NET Developer | [Sapiens Software Solutions](https://sapiens.com/) | (04/2022 - 04/2023)**
-- Enhanced [Aviva](https://www.aviva.co.uk/) **motor insurance systems** using **.NET**, and **Microsoft SQL Server**.
-- Built, optimized and tested **RESTful APIs** using **Swagger** and **Postman**.
+- Enhanced [Aviva](https://www.aviva.co.uk/) **motor insurance systems** using **.NET**, **ASP.NET**, and **Microsoft SQL Server**.
+- Built, optimized and tested **RESTful APIs** using **Swagger**, **Postman** and other technologies.
 - Performed **unit testing** and **functional testing** using **xUnit** and **Selenium WebDriver**.
 - Collaborated across international teams and gained valuable experience in the **FinTech industry**.
 
 **Laravel Developer | [iConcept](https://iconcept.lv/) | (12/2024 - present)**
-- **Full-stack development** for a diverse range of systems, mobile apps and websites.
-- **RESTful API development** using **Laravel**, **Spatie**, **Sanctum** and **MySQL**.
-- **System management panel development** using **Laravel**, **Breeze**, **Livewire** and **Flux**.
+- **Full-stack development** for a diverse range of business systems, mobile apps and websites.
+- **RESTful API development** using **Laravel**, **Spatie**, **Sanctum**, **Redis**, **MySQL** and other technologies.
+- **Customer Relationship Management (CRM) system development** using **Laravel**, **Breeze**, **Livewire** and **Flux**.
 
 ## **Languages and tools**
 
@@ -41,3 +41,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
